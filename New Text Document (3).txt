@@ -1,0 +1,68 @@
+{
+    "id": 5,
+    "startTime": "2017-08-17",
+    "endTime": "2019-08-17",
+    "product": [
+        {
+            "id": 10,
+            "startTime": "2018-08-05",
+            "endTime": "2018-08-29",
+            "name": "test",
+            "brand": null,
+            "description": "Mufti",
+            "cost": 1000,
+            "status": null,
+            "quantity": 10,
+            "imageUrl": null,
+            "viewCount": 5,
+            "averageRating": 3,
+            "cart": [],
+            "merchant": null,
+            "discount": {
+                "id": 6,
+                "startTime": "2018-08-14",
+                "endTime": "2018-08-18",
+                "discountPercentage": 20,
+                "discountedPrice": 800
+            },
+            "category": {
+                "id": 13,
+                "startTime": null,
+                "endTime": null,
+                "name": "Cosmetics"
+            },
+            "feedback": []
+        },
+        {
+            "id": 11,
+            "startTime": "2018-08-04",
+            "endTime": "2018-08-29",
+            "name": "test1",
+            "brand": null,
+            "description": "Roadster",
+            "cost": 1000,
+            "status": null,
+            "quantity": 10,
+            "imageUrl": null,
+            "viewCount": 5,
+            "averageRating": 5,
+            "cart": [],
+            "merchant": null,
+            "discount": {
+                "id": 7,
+                "startTime": "2018-08-20",
+                "endTime": "2018-08-26",
+                "discountPercentage": 50,
+                "discountedPrice": 500
+            },
+            "category": {
+                "id": 13,
+                "startTime": null,
+                "endTime": null,
+                "name": "Cosmetics"
+            },
+            "feedback": []
+        }
+    ],
+    "quantity": 2
+}
